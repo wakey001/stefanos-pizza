@@ -30,7 +30,7 @@ Stefanos Vip Pizza is a pizza resturant where users register, login, pre-book, a
 
 [Validator Testing](#validator-testing)
 
-[Bugs Found](#bug-found)
+[Bugs Found](#bugs-found)
 
 [Deployment](#deployment)
 
@@ -40,6 +40,56 @@ Stefanos Vip Pizza is a pizza resturant where users register, login, pre-book, a
 
  <a name="ux"></a>
 ## (UX)
+
+### User Stories 
+
+
+### Design 
+
+ <a name="features"></a>
+## Features
+
+### Existing Features
+
+
+### Languages Used
+
+ <a name="features-to-be-implemented"></a>
+## Features to be implemented 
+
+ <a name="wireframes"></a>
+## Wireframes
+ 
+ <a name="databases"></a>
+## Databases 
+ 
+ <a name="technologies-used"></a>
+## Technologies Used 
+
+ <a name="testing"></a>
+## Testing
+ <a name="validator-testing"></a>
+## Validator Testing
+
+### JavaScript
+
+### Python
+
+### HTML5 validator
+
+### CSS3 validator
+
+ <a name="bugs-found"></a>
+## Bugs Found
+
+ <a name="deployment"></a>
+## Deployment
+
+ <a name="credit"></a>
+## Credit
+
+ <a name="acknowledgements"></a>
+## Acknowledgements
 
 
 
