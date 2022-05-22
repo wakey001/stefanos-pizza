@@ -1,4 +1,4 @@
-<h1 align="center">Stefanos Pizza</h1>
+<h1>Stefanos Vip Pizza</h1>
 
 <img src="" >
 
@@ -14,7 +14,7 @@ Stefanos Vip Pizza is a pizza resturant where users register, login, pre-book, a
 
 # Table of Contents
 
-[User Experience](#user-experience)
+[User Experience (UX)](#ux)
 
 [Features](#features)
 
@@ -37,6 +37,20 @@ Stefanos Vip Pizza is a pizza resturant where users register, login, pre-book, a
 [Credit](#credit)
 
 [Acknowledgements](#acknowledgements)
+
+ <a name="ux"></a>
+## (UX)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
