@@ -41,7 +41,23 @@ Stefanos Vip Pizza is a pizza resturant where users register, login, pre-book, a
  <a name="ux"></a>
 ## (UX)
 
+## Strategy
+Using the core UX principles I first started with Strategy, thinking about the target audience for the pizza parlour & the features they would benefit from.
+
+The target audience for 'Stefano's pizza ' are:
+- familys, couples, singles or groups of people aged 14-50
+- People after quick delicious food
+- People who need some food to feed a large group in the easiest way possible.
+
+These users will be looking for :
+- An informative website, with information that is easy-to-find & concise
+- Current & up-to-date menus, with essential information such as price, allergens and dietary info
+- A booking form to make reservation enquiries with the restaurant
+- A way to contact the restaurant
+- The ability to make a user account to manage their reservations
+
 ### User Stories 
+
 
 
 ### Design 
