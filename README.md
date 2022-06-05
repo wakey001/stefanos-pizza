@@ -75,6 +75,9 @@ These users will be looking for :
 
  <a name="wireframes"></a>
 ## Wireframes
+![wireframe-desktop](https://user-images.githubusercontent.com/83303996/172071482-1b1cb7dd-c2e5-4401-8b7e-3878da3a0983.PNG)
+![wireframe-ipad](https://user-images.githubusercontent.com/83303996/172071488-68ff5b59-c7be-4d08-8f74-9bba7b027b59.PNG)
+![wireframe-iphone](https://user-images.githubusercontent.com/83303996/172071492-5bc1d732-284f-4ab1-a401-5d88e346ebe0.PNG)
  
  <a name="databases"></a>
 ## Databases 
