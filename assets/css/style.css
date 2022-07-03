@@ -42,3 +42,31 @@ header .navbar a
     color: rgb(255, 255, 255);
     border: .1rem solid transparent
 }
+header .navbar a:hover
+{
+    color: rgba(211, 162, 250, 0.5);
+    border: .1rem solid rgba(205, 170, 124, 0.2)
+}
+header .icons i
+{
+    cursor: pointer;
+    margin-left: .5rem;
+    height: 4.5rem;
+    width: 4.5rem;
+    line-height: 4.5rem;
+    background: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 1.7rem;
+    color: rgba(211, 162, 250, 0.5);
+}
+header .icons i:hover
+{
+    color: #fff;
+    transform: rotate(360deg);
+}
+header .icons #menu
+{
+    display: none;
+}
+
+/*navbar styles end */
