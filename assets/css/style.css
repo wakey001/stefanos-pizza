@@ -25,7 +25,7 @@ header
     top: 0;
     left: 0;
     right: 0;
-    background: black;
+    background: rgba(0, 0, 0, 0.5);
     padding: 1rem ;
     display: flex;
     align-items: center;
@@ -34,4 +34,11 @@ header
 header .logo img
 {
     height: auto;
+}
+header .navbar a
+{
+    font-size: 1.7rem;
+    padding: .5rem 1.5rem;
+    color: rgb(255, 255, 255);
+    border: .1rem solid transparent
 }
