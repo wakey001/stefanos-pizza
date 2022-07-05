@@ -90,3 +90,34 @@ header .icons #menu
         height: 7rem;
     }
 }
+@media (max-width: 768px)
+{
+    /*navbar media query*/
+    header .logo img
+    {
+        height: 7rem;
+    }
+    header .icons #menu
+    {
+        display: inline-block;
+    }
+    header .navbar
+    {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background: #eee;
+        border-top: .1rem solid rgba(205, 170, 124, 0.2);
+        border-bottom: 1rem solid rgba(205,170,124,0.2);
+        padding: 1rem;
+    }
+    header .navbar a
+    {
+        display: block;
+        padding: 1.5rem;
+        margin: 1rem;
+        font-size: 2rem;
+        background: black;
+    }
+}
