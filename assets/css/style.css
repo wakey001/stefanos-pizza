@@ -18,7 +18,7 @@ html
     overflow-x: hidden;
     scroll-behavior: smooth;
 }
-/* nabar style*/
+/* nabar styles start*/
 header
 {
     position: fixed;
@@ -70,3 +70,23 @@ header .icons #menu
 }
 
 /*navbar styles end */
+
+
+
+
+/*media query*/
+@media (max-width: 991px)
+{
+    html
+    {
+        font-size:55%;
+    }
+    header
+    {
+        padding: 1rem 2rem;
+    }
+    header .logo img
+    {
+        height: 7rem;
+    }
+}
