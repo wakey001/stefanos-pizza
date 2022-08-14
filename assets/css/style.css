@@ -40,19 +40,25 @@ html
 /*---- 3 Chefs section*/
 .three-stack-container{
     background-color: black;
+    position: relative;
    
 }
 .chef-one{
-    /*background: url(/assets/images/chef-one.jpg) no repeat center center;
+    background: url(/assets/images/chef-one.jpg) no-repeat;
     background-size: cover ;
     background-position: center center; 
-    height: 30vh;
-    width: 100vw;*/
-    background-color: aqua;
+    
+    height: 40vh;
+    
 }
 .chef-two{
-    background-color: blueviolet;
+    background: url(/assets/images/chef-two.jpg) no-repeat;
+    background-size: cover ;
+    background-position: center center; 
+    height: 40vh;
 }
 .chef-three{
     background-color: red;
+    height: 40vh;
+    
 }
