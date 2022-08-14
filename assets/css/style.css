@@ -20,19 +20,29 @@ html
     scroll-behavior: smooth;
     
 }
+/*-------Hero Image of pizza and text plus "BOOK" button*/
 .hero-container{
     position: relative;
 }
 .hero-img{
-    height: 100vh;
+    height: 70vh;
     width: 100vw;
-    background: url(/assets/images/Pizzas-hero-image.jpg) no-repeat center center fixed; 
+    background: url(/assets/images/Pizzas-hero-image.jpg) no-repeat center center; 
     background-size: cover;
     background-position: center center;
 }
 .hero-text-img{
     position: absolute;
     top: 40%;
-   left: 50%;
-   transform: translate(-50%, -50%);
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+/*---- 3 Chefs section*/
+.three-stack-container{
+    background-color: #fff;   
+}
+#chef-one{
+    background: url(/assets/images/chef-one.jpg) no repeat center center;
+    background-size: cover ;
+    background-position: center center;
 }
