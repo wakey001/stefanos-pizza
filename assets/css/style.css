@@ -20,10 +20,19 @@ html
     scroll-behavior: smooth;
     
 }
+.hero-container{
+    position: relative;
+}
 .hero-img{
     height: 100vh;
     width: 100vw;
     background: url(/assets/images/Pizzas-hero-image.jpg) no-repeat center center fixed; 
     background-size: cover;
     background-position: center center;
+}
+.hero-text-img{
+    position: absolute;
+    top: 40%;
+   left: 50%;
+   transform: translate(-50%, -50%);
 }
