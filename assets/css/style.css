@@ -27,7 +27,7 @@ html
 .hero-img{
     height: 70vh;
     width: 100vw;
-    background: url(/assets/images/Pizzas-hero-image.jpg) no-repeat center center; 
+    background: url(/assets/images/Pizzas-hero-image.jpg) no-repeat center center fixed; 
     background-size: cover;
     background-position: center center;
 }
@@ -39,10 +39,20 @@ html
 }
 /*---- 3 Chefs section*/
 .three-stack-container{
-    background-color: #fff;   
+    background-color: black;
+   
 }
-#chef-one{
-    background: url(/assets/images/chef-one.jpg) no repeat center center;
+.chef-one{
+    /*background: url(/assets/images/chef-one.jpg) no repeat center center;
     background-size: cover ;
-    background-position: center center;
+    background-position: center center; 
+    height: 30vh;
+    width: 100vw;*/
+    background-color: aqua;
+}
+.chef-two{
+    background-color: blueviolet;
+}
+.chef-three{
+    background-color: red;
 }
