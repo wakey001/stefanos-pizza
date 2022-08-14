@@ -39,26 +39,26 @@ html
 }
 /*---- 3 Chefs section*/
 .three-stack-container{
-    background-color: black;
     position: relative;
    
 }
 .chef-one{
     background: url(/assets/images/chef-one.jpg) no-repeat;
     background-size: cover ;
-    background-position: center center; 
-    
-    height: 40vh;
+    background-position: center center;
+    height: 50vh;
     
 }
 .chef-two{
     background: url(/assets/images/chef-two.jpg) no-repeat;
     background-size: cover ;
     background-position: center center; 
-    height: 40vh;
+    height: 50vh;
 }
 .chef-three{
-    background-color: red;
-    height: 40vh;
+    background: url(/assets/images/chef-three.jpg) no-repeat center center;
+    background-size: cover ;
+    background-position: center center; 
+    height: 50vh;
     
 }
