@@ -27,7 +27,7 @@ html
 .hero-img{
     height: 70vh;
     width: 100vw;
-    background: url(/assets/images/Pizzas-hero-image.jpg) no-repeat center center fixed; 
+    background: url(/assets/images/Pizzas-hero-image.jpg) no-repeat center center; 
     background-size: cover;
     background-position: center center;
 }
@@ -38,6 +38,10 @@ html
     transform: translate(-50%, -50%);
 }
 /*---- 3 Chefs section*/
+#chef-header{
+    text-align: center;
+    text-decoration: underline;
+}
 .three-stack-container{
     position: relative;
    
