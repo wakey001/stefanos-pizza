@@ -66,10 +66,8 @@ html
     height: 50vh;
     
 }
-/* menus and sign up test css*/
-.color-test-signup{
-    background-color: aqua;
+/* signup.html*/
+.form-group{
+    width: 50%;
 }
-.color-test-menus{
-    background-color: red;
-}
+
