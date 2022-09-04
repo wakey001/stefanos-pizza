@@ -67,7 +67,11 @@ html
     
 }
 /* signup.html*/
-.form-group{
-    width: 50%;
+.sign-up-img{
+    height: 70vh;
+    width: 100vw;
+    background: url(/assets/images/flour-clap.jpg) no-repeat center center; 
+    background-size: cover;
+    background-position: center center;
 }
 
