@@ -66,3 +66,10 @@ html
     height: 50vh;
     
 }
+/* menus and sign up test css*/
+.color-test-signup{
+    background-color: aqua;
+}
+.color-test-menus{
+    background-color: red;
+}
